@@ -9,4 +9,4 @@ You are tasked with building EchoBoard, a lightweight Feedback & Rating System u
 - View all submitted feedback entries
 - Delete inappropriate feedback (admin-only)
 
-This project will simulate a real-world API application where database design, API development, and collaboration between DB and backend teams are essential.
+This project will simulate a real-world API application where database design, API development, and collaboration between frontend and backend teams are essential.
