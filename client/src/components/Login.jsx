@@ -21,7 +21,6 @@ export default function Login() {
   }
 }, [navigate]);
 
-
   const handleSubmit = async (e) => {
     e.preventDefault();
 
@@ -113,6 +112,3 @@ if (email === dummyAdmin.email && password === dummyAdmin.password) {
     </div>
   );
 }
-
-
-
